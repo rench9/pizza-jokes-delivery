@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="screen_tvTitle" type="id" />
+    <item name="screen_abPrimary" type="id" />
+    <item name="screen_tbPrimary" type="id" />
+    <item name="screen_tvContent" type="id" />
+    <item name="screen_cbFav" type="id" />
+    <item name="screen_btn_share" type="id" />
+    <item name="screen_btn_copy" type="id" />
+</resources>

@@ -1,0 +1,32 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+
+    <!-- Base application theme. -->
+    <style name="screen_AppTheme">
+        <item name="colorPrimary">@color/shade0</item>
+        <item name="colorPrimaryDark">@color/shade0</item>
+        <item name="colorAccent">@color/shade8</item>
+        <item name="android:windowBackground">@color/shade0</item>
+        <item name="windowActionBar">false</item>
+        <item name="windowNoTitle">true</item>
+        <item name="android:windowLightStatusBar" tools:targetApi="m">true</item>
+        <item name="android:navigationIcon" tools:targetApi="m">@color/screen_red</item>
+        <item name="android:navigationBarColor" tools:targetApi="lollipop">@color/shade0</item>
+        <item name="android:statusBarColor" tools:targetApi="lollipop">@color/shade0</item>
+    </style>
+
+    <style name="screen_AppTheme.Dark">
+        <item name="windowActionBar">false</item>
+        <item name="windowNoTitle">true</item>
+        <item name="android:windowBackground">@color/screen_bg</item>
+        <item name="colorPrimaryDark">@color/screen_bg</item>
+        <item name="android:navigationBarColor" tools:targetApi="lollipop">@color/screen_bg</item>
+        <item name="android:statusBarColor" tools:targetApi="lollipop">@color/screen_bg</item>
+
+
+        <item name="colorPrimary">@color/shade0</item>
+        <item name="colorAccent">@color/shade8</item>
+        <item name="android:windowLightStatusBar" tools:targetApi="m">false</item>
+    </style>
+
+
+</resources>

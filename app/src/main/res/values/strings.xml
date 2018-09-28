@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Jokes Pizza</string>
+    <string name="instructions">Press the button for a delicious joke!</string>
+    <string name="button_text">Tell Joke</string>
+    <string name="action_settings">Settings</string>
+    <string name="dice_slogan">Roll the dice for fun fact</string>
+
+    <string name="dice_tag">Roll the dice for fun fact</string>
+    <string name="no_joke">No Joke available at the moment</string>
+    <string name="slice_tag">Slice of Joke</string>
+</resources>
