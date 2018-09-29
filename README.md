@@ -10,7 +10,7 @@ activity for displaying jokes, and an Android app that fetches jokes from the
 GCE module and passes them to the Android Library for display.
 
 ### Download and try
-[![Android 4.4+ v1.](https://i.imgur.com/pVmg3Fn.png)](https://github.com/rench9/pizza-jokes-delivery/releases/download/1.0/pizza-jokes.apk "Pizza Jokes Delivery APK")  [![Android 4.4+ v0.1 with AdMob](https://i.imgur.com/sE4qPR0.png)](https://github.com/rench9/pizza-jokes-delivery/releases/download/0.1/pizza-jokes-free.apk "Pizza Jokes Delivery APK - With Adds")
+[![Android 4.4+ v1.](https://i.imgur.com/pVmg3Fn.png)](https://github.com/rench9/pizza-jokes-delivery/releases/download/1.0/pizza-jokes.apk "Pizza Jokes Delivery APK") &nbsp; &nbsp;[![Android 4.4+ v0.1 with AdMob](https://i.imgur.com/sE4qPR0.png)](https://github.com/rench9/pizza-jokes-delivery/releases/download/0.1/pizza-jokes-free.apk "Pizza Jokes Delivery APK - With Adds")
 
 ## How I Completed this Project
 
